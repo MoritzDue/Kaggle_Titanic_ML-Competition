@@ -1,0 +1,13 @@
+# Titanic competition data and generated submissions
+data/*.csv
+submissions/
+catboost_info/
+
+# Python and notebook runtime
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
